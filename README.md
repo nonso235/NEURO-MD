@@ -16,44 +16,44 @@ src="https://files.catbox.moe/grlqyj.png">
   </a>
 
   <!-- Stars -->
-  <a href="https://github.com/allamano774/NEUROTECH-MD/stargazers">
-    <img title="Stars" src="https://img.shields.io/github/stars/allamano774/NEUROTECH-MD?color=blue&style=flat-square">
+  <a href="https://github.com/allamano774/NEURO-MD/stargazers">
+    <img title="Stars" src="https://img.shields.io/github/stars/allamano774/NEURO-MD?color=blue&style=flat-square">
   </a>
 
   <!-- Forks -->
-  <a href="https://github.com/allamano774/NEUROTECH-MD/network/members">
-    <img title="Forks" src="https://img.shields.io/github/forks/allamano774/NEUROTECH-MD?color=blue&style=flat-square">
+  <a href="https://github.com/allamano774/NEURO-MD/network/members">
+    <img title="Forks" src="https://img.shields.io/github/forks/allamano774/NEURO-MD?color=blue&style=flat-square">
   </a>
 
   <!-- Watchers -->
-  <a href="https://github.com/allamano774/NEUROTECH-MD/watchers">
+  <a href="https://github.com/allamano774/NEURO-MD/watchers">
     <img title="Watchers" src="https://img.shields.io/github/watchers/allamano774/NEUROTECH-MD?label=Watchers&color=blue&style=flat-square">
   </a>
 
   <!-- Repository Size -->
-  <a href="https://github.com/allamano774/NEUROTECH-MD">
-    <img title="Repo Size" src="https://img.shields.io/github/repo-size/allamano774/NEUROTECH-MD?style=flat-square&color=green">
+  <a href="https://github.com/allamano774/NEURO-MD">
+    <img title="Repo Size" src="https://img.shields.io/github/repo-size/allamano774/NEURO-MD?style=flat-square&color=green">
   </a>
 
   <!-- Hits -->
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallamano774%2FNEUROTECH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallamano774%2FNEURO-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/>
   </a>
 
   <!-- Maintained -->
-  <a href="https://github.com/allamano774/NEUROTECH-MD/graphs/commit-activity">
+  <a href="https://github.com/allamano774/NEURO-MD/graphs/commit-activity">
     <img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
   </a>
 </p>
 
 <!-- Visitor Count -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NEUROTECH-MD/count.svg" alt="allamano774 :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/NEURO-MD/count.svg" alt="allamano774 :: Visitor's Count" />
 </p>
 
 <!-- Language Badge -->
 <p align="center">
-  <a href="https://github.com/allamano774/NEUROTECH-MD">
+  <a href="https://github.com/allamano774/NEURO-MD">
     <img title="Language" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink">
   </a>
   &nbsp;
@@ -63,7 +63,7 @@ src="https://files.catbox.moe/grlqyj.png">
 
 <!-- Release Badge -->
 <p align="center">
-  <a href="https://github.com/allamano774/NEUROTECH-MD/releases">
+  <a href="https://github.com/allamano774/NEURO-MD/releases">
     <img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" />
   </a>
 </p>
